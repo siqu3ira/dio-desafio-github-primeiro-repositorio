@@ -7,3 +7,9 @@ ls
 CTRL + L
 git commit -m "mensagem"
 git clone "link"
+git pull origin "branch"
+git remote -v
+git remote add origin "URL do repositório"
+git add */. ou git add "arquivo"
+mkdir "nome"
+git config --list
