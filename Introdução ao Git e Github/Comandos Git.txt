@@ -1,0 +1,9 @@
+Comandos:
+git init
+git push origin "branch"
+git pull origin
+git status
+ls
+CTRL + L
+git commit -m "mensagem"
+git clone "link"
